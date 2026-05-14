@@ -1,0 +1,23 @@
+# Python build artifacts
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/.venv/
+**/venv/
+**/.pytest_cache/
+**/*.egg-info/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Task metadata — kept local, not part of the public codebase
+prompt.txt
+task_config.json
+reasoning.txt
+README.md
+DEEP_DIVE.md
+docs/
